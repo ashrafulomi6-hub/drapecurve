@@ -16,7 +16,7 @@ export default function Home() {
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
             backgroundImage:
-              'url(https://github.com/ashrafulomi6-hub/drapecurve/blob/main/src/app/data/dc%20image/dc.jpg.png)',
+              'url(https://www.google.com/search?q=american+drop+shoulder+image&sca_esv=9687c9b822386596&udm=2&biw=1536&bih=730&sxsrf=ANbL-n4stR7gkPs5-fvmwOjaOT-mZKDcDA%3A1770742020575&ei=BGGLaeHmIsegseMPne2AyAw&ved=0ahUKEwjh-P-IsM-SAxVHUGwGHZ02AMkQ4dUDCBU&uact=5&oq=american+drop+shoulder+image&gs_lp=Egtnd3Mtd2l6LWltZyIcYW1lcmljYW4gZHJvcCBzaG91bGRlciBpbWFnZUj_IVCDCVivH3ABeACQAQCYAZIBoAGYB6oBAzcuMrgBA8gBAPgBAZgCAaACDsICBBAAGB7CAgYQABgIGB6YAwCIBgGSBwExoAeVA7IHALgHAMIHAzMtMcgHC4AIAA&sclient=gws-wiz-img#sv=CAMSVhoyKhBlLWw5aG9wczVZZ1hXeFVNMg5sOWhvcHM1WWdYV3hVTToOOEZIc0g1SF9mVjd4N00gBCocCgZtb3NhaWMSEGUtbDlob3BzNVlnWFd4VU0YADABGAcg5qv_9wYwAkoIEAIYAiACKAI,
           }}
         >
           <div className="absolute inset-0 bg-black/40" />
