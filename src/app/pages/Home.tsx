@@ -16,7 +16,7 @@ export default function Home() {
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
             backgroundImage:
-              'url("C:\Users\ASUS\Pictures\Screenshots\Screenshot 2026-02-10 221534.png")',
+              'url("https://github.com/ashrafulomi6-hub/drapecurve/blob/main/src/app/data/dc%20image/Screenshot%202026-02-10%20221534.png")',
           }}
         >
           <div className="absolute inset-0 bg-black/40" />
