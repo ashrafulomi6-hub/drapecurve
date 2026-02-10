@@ -16,7 +16,7 @@ export default function Home() {
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
             backgroundImage:
-              'url(https://images.unsplash.com/photo-1759476531135-970d1f34df3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhdGhsZXRpYyUyMGxpZmVzdHlsZSUyMG1vZGVsJTIwb3V0ZG9vcnxlbnwxfHx8fDE3NzA3MzMzODN8MA&ixlib=rb-4.1.0&q=80&w=1080)',
+              'url("C:\Users\ASUS\Pictures\Screenshots\Screenshot 2026-02-10 221534.png")',
           }}
         >
           <div className="absolute inset-0 bg-black/40" />
