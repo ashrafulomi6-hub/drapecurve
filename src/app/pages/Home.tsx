@@ -16,7 +16,7 @@ export default function Home() {
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
             backgroundImage:
-              'url(https://unsplash.com/photos/man-holding-his-leather-jacket-P0W27GRvyww)',
+              'url(https://images.iimg.live/images/spectacular-vision-3278.webp)',
           }}
         >
           <div className="absolute inset-0 bg-black/40" />
