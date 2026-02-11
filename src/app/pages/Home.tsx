@@ -1,6 +1,6 @@
-import { Link } from 'react-router';
+import { Link } from 'react-router-dom';
 import { ArrowRight, TrendingUp, Sparkles } from 'lucide-react';
-import { motion } from 'motion/react';
+import { motion } from 'framer-motion';
 import ProductCard from '../components/ProductCard';
 import { products } from '../data/products';
 
